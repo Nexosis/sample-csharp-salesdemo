@@ -1,8 +1,0 @@
-/Users/steensn/Desktop/Developer/Demo/bin/Debug/netcoreapp1.1/Demo.deps.json
-/Users/steensn/Desktop/Developer/Demo/bin/Debug/netcoreapp1.1/Demo.runtimeconfig.json
-/Users/steensn/Desktop/Developer/Demo/bin/Debug/netcoreapp1.1/Demo.runtimeconfig.dev.json
-/Users/steensn/Desktop/Developer/Demo/obj/Debug/netcoreapp1.1/Demo.AssemblyInfo.cs
-/Users/steensn/Desktop/Developer/Demo/bin/Debug/netcoreapp1.1/Demo.dll
-/Users/steensn/Desktop/Developer/Demo/bin/Debug/netcoreapp1.1/Demo.pdb
-/Users/steensn/Desktop/Developer/Demo/obj/Debug/netcoreapp1.1/Demo.dll
-/Users/steensn/Desktop/Developer/Demo/obj/Debug/netcoreapp1.1/Demo.pdb
