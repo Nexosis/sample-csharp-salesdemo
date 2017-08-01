@@ -104,7 +104,7 @@ namespace Demo
             
             Console.WriteLine("");
 
-            // If API provided, start client w/that key
+            // If user input API provided, start client w/that key, if not use system key
             var client = (sessionType == "2") ? new NexosisClient(apiKey) : new NexosisClient(); 
 
             using (var file = File.OpenText(targetData))

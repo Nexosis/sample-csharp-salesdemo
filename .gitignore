@@ -6,5 +6,6 @@
 .DS_Store
 Demo/Instructions.rtf
 *.rtf
-[Bb]in/*
-[Oo]bj/*
+[Bb]in/
+[Oo]bj/
+Demo/Instructions.rtf
