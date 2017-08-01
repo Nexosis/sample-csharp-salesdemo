@@ -4,8 +4,6 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 .DS_Store
-Demo/Instructions.rtf
-*.rtf
 [Bb]in/
 [Oo]bj/
-Demo/Instructions.rtf
+[Dd]emo/[Ii]nstructions.rtf
