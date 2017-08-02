@@ -118,7 +118,7 @@ namespace Demo
                     // Uploading new dataset & write data upload cost
                     var data = client.DataSets.Create(dataSetName, file).GetAwaiter().GetResult();
                     Console.WriteLine("");
-                    Console.WriteLine("Data Upload Cost ${0}:", data.Cost);
+                    Console.WriteLine("Successfully uploaded dataset '{0}'", data.DataSetName);
 
                     // Start forecasting session & write session status + ID
                     var session = client.Sessions.CreateForecast(dataSetName, targetColumn, DateTimeOffset.Parse(targetStartDate), DateTimeOffset.Parse(targetEndDate), targetInterval).GetAwaiter().GetResult();
